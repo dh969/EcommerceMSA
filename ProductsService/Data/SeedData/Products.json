@@ -1,0 +1,266 @@
+[
+  {
+    "Name": "Green Angular Board 3000",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150.00,
+    "PictureUrl": "images/products/sb-ang2.png",
+    "ProductTypeId":1,
+    "ProductBrandId": 1,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+    
+  },
+  {
+    "Name": "Core Purple Boots",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/boot-core1.png",
+   
+    "ProductTypeId": 2,
+
+    "ProductBrandId": 2,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+    
+  },
+  {
+    "Name": "Core Red Boots",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/boot-core2.png",
+ 
+    "ProductTypeId": 2,
+
+    "ProductBrandId": 2,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+    
+  },
+  {
+    "Name": "Redis Red Boots",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 250.00,
+    "PictureUrl": "images/products/boot-redis1.png",
+  
+    "ProductTypeId": 2,
+ 
+    "ProductBrandId": 6,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+   
+  },
+  {
+    "Name": "Green React Gloves",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 14.00,
+    "PictureUrl": "images/products/glove-react2.png",
+ 
+    "ProductTypeId": 1,
+ 
+    "ProductBrandId": 4,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+   
+  },
+  {
+    "Name": "Purple React Gloves",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 16.00,
+    "PictureUrl": "images/products/glove-react1.png",
+  
+    "ProductTypeId": 1,
+  
+    "ProductBrandId": 4,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+    
+  },
+  {
+    "Name": "Green Code Gloves",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15.00,
+    "PictureUrl": "images/products/glove-code2.png",
+  
+    "ProductTypeId": 1,
+ 
+    "ProductBrandId": 3,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+    
+  },
+  {
+    "Name": "Angular Purple Boots",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 150.00,
+    "PictureUrl": "images/products/boot-ang2.png",
+   
+    "ProductTypeId": 2,
+  
+    "ProductBrandId": 1,
+    "AvailableQuantity": 44,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+    
+  },
+  {
+    "Name": "Blue Code Gloves",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18.00,
+    "PictureUrl": "images/products/glove-code1.png",
+  
+    "ProductTypeId": 1,
+ 
+    "ProductBrandId": 3,
+    "AvailableQuantity": 94,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+   
+  },
+  {
+    "Name": "Green React Woolen Hat",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8.00,
+    "PictureUrl": "images/products/hat-react1.png",
+   
+    "ProductTypeId": 4,
+ 
+    "ProductBrandId": 4,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+  
+  },
+  {
+    "Name": "Core Blue Hat",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10.00,
+    "PictureUrl": "images/products/hat-core1.png",
+ 
+    "ProductTypeId": 4,
+ 
+    "ProductBrandId": 2,
+    "AvailableQuantity": 94,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+
+  },
+  {
+    "Name": "Typescript Entry Board",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120.00,
+    "PictureUrl": "images/products/sb-ts1.png",
+
+    "ProductTypeId": 3,
+
+    "ProductBrandId": 5,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+   
+  },
+  {
+    "Name": "React Board Super Whizzy Fast",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250.00,
+    "PictureUrl": "images/products/sb-react1.png",
+
+    "ProductTypeId": 3,
+
+    "ProductBrandId": 4,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+   
+  },
+  {
+    "Name": "Net Core Super Board",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300.00,
+    "PictureUrl": "images/products/sb-core2.png",
+
+    "ProductTypeId": 3,
+
+    "ProductBrandId": 2,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+  
+  },
+  {
+    "Name": "Core Board Speed Rush 3",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180.00,
+    "PictureUrl": "images/products/sonara.jpeg",
+
+    "ProductTypeId": 3,
+
+    "ProductBrandId": 2,
+    "AvailableQuantity": 77,
+    "Discount": 5.78,
+    "Specification": "This is specification"
+   
+  },
+  {
+    "Name": "Purple React Woolen Hat",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15.00,
+    "PictureUrl": "images/products/hat-react2.png",
+
+    "ProductTypeId": 4,
+
+    "ProductBrandId": 4,
+    "AvailableQuantity": 100,
+    "Discount": 5.00,
+    "Specification": "This is specification"
+   
+  },
+  {
+    "Name": "Angular Blue Boots",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180.00,
+    "PictureUrl": "images/products/agriculture-8026468__340.jpg",
+
+    "ProductTypeId": 2,
+
+    "ProductBrandId": 3,
+    "AvailableQuantity": 0,
+    "Discount": 15.00,
+    "Specification": "This is specification"
+    
+  },
+  {
+    "Name": "sonata watch",
+    "Description": "This is a watch by sonata titan",
+    "Price": 112.00,
+    "PictureUrl": "images/products/sonara.jpeg",
+  
+    "ProductTypeId": 1,
+
+    "ProductBrandId": 5,
+    "AvailableQuantity": 115,
+    "Discount": 12.50,
+    "Specification": "no spec"
+   
+  },
+  {
+    "Name": "lenovo laptop",
+    "Description": "this is a brand new lenovo laptop ",
+    "Price": 1123.00,
+    "PictureUrl": "images/products/fz6h27ovdihcie0zykpx2bbly2q2p6851556.jpeg",
+
+    "ProductTypeId": 1,
+ 
+    "ProductBrandId": 1,
+    "AvailableQuantity": 1232,
+    "Discount": 50.00,
+    "Specification": ""
+    
+  }
+]
